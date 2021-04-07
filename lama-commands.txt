@@ -1,0 +1,3 @@
+mkdir : creats a new folder 
+touch : creats a new file 
+rmdir : removes a folder 
